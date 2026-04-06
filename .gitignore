@@ -1,0 +1,14 @@
+# Pipeline docs (generated artifacts — not part of the plugin)
+.pipeline/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+*~
+
+# Node (if extension is ever built)
+node_modules/
